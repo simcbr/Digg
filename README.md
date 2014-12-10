@@ -9,6 +9,7 @@ The program is written in python, and includes following components (each file i
 
 1. diggSqlCon.py:  interface to the mysql database.  responsible for basic simple such as table creation, query; and other extended tasks like cascades retrieve.
 2. digg.py:  the main program
+3. diggGCC.py:  retrieve GCC (giant connected component)
 
 
 ====
